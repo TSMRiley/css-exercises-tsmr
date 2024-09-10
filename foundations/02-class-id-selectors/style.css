@@ -1,0 +1,9 @@
+p{
+    background-color: hsl(360, 100%, 75%);
+    font-family: Verdana, dejaVu, Sans, sans-serif;
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
