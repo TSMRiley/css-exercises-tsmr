@@ -1,6 +1,6 @@
 .oddnum{
     background-color: hsl(360, 100%, 75%);
-    font-family: Verdana, dejaVu, Sans, sans-serif;
+    font-family: Verdana, "dejaVu Sans", sans-serif;
 }
 
 #number2{
@@ -15,5 +15,5 @@
 #number4{
   background-color: hsl(120, 100%, 75%);  
   font-size: 24px;
-  font-weight: 700
+  font-weight: 700;
 }
