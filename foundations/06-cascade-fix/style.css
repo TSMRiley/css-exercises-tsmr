@@ -3,12 +3,12 @@ body {
 }
 
 .para,
-.small {
+.small-para {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
 
-.small{
+.small-para{
   font-size: 14px;
   font-weight: 800;
 }
@@ -29,13 +29,13 @@ body {
   font-size: 20px;
 }
 
-div.child {
+.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
-div.text {
+.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
